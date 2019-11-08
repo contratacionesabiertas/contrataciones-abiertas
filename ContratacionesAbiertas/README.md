@@ -74,3 +74,31 @@
 
 ```
 
+## Fecha de actualización 08-11-19
+
+### Diseño gráfico
+```
+1. Se actualizan los archivos para el nuevo diseño gráfico 
+   a) Se actualiza el header (módulo sistema de captura y dashboard - visualizador)
+   b) Se actualiza el footer (módulo sistema de captura y dashboard - visualizador)
+   c) Se crea la barra de menú (módulo dashboard - visualizador)
+
+   - Archivos
+     1.1 Se agregan las nuevas imágenes necesarias para el header y footer en la carpeta: /captura/public/images/
+	 1.2 Se modifica el archivo /captura/public/inai-footer/dgm-footer.html
+	 1.3 Se modifica el archivo /captura/public/inai-navbar/dgm-navbar.html
+	 1.4 Se modifica el archivo /captura/views/index.ejs
+	 1.5 Se agregan las nuevas imágenes necesarias para el header y footer en la carpeta: /dashboard/public/images/
+	 1.6 Se modifica el archivo /dashboard/public/inai-footer/dgm-footer.html
+	 1.7 Se modifica el archivo /dashboard/public/inai-footer/footer.html
+     1.8 Se modifica el archivo /dashboard/public/inai-navbar/dgm-navbar.html
+     1.9 Se modifica el archivo /dashboard/public/stylesheets/index.css
+     1.10 Se modifica el archivo /dashboard/public/stylesheets/main.css
+     1.11 Se modifica el archivo /dashboard/views/acerca.ejs
+	 1.12 Se modifica el archivo /dashboard/views/contract.ejs
+	 1.13 Se modifica el archivo /dashboard/views/dashboard.ejs
+	 1.14 Se crea el archivo /dashboard/views/implementa.ejs
+	 1.15 Se modifica el archivo /dashboard/views/index.ejs
+	 1.16 Se crea el archivo /dashboard/views/politicadepublicacion.ejs
+	 
+```
